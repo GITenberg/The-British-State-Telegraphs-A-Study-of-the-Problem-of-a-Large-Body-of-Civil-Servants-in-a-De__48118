@@ -1,10 +1,16 @@
 _repo: The-British-State-Telegraphs-A-Study-of-the-Problem-of-a-Large-Body-of-Civil-Servants-in-a-De__48118
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48118-h/images/cover.jpg
 creator:
   author:
     agent_name: Meyer, Hugo Richard
     gutenberg_agent_id: '44628'
     url: http://www.gutenberg.org/2009/agents/44628
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48118#The-British-State-Telegraphs-A-Study-of-the-Problem-of-a-Large-Body-of-Civil-Servants-in-a-De_
 gutenberg_issued: '2015-01-31'
 gutenberg_type: Text
 identifiers:
